@@ -1,0 +1,46 @@
+{\rtf1\fs24
+\pard\qc
+Table 3.A: Full Regressions by State\par
+Occupation\par
+and Marital Status\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2160\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx6192\clbrdrt\brdrs\cellx7632\clbrdrt\brdrs\cellx8928\clbrdrt\brdrs\cellx10368\clbrdrt\brdrs\cellx11808
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\qc (7)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx3456\cellx4752\cellx6192\cellx7632\cellx8928\cellx10368\cellx11808
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx3456\cellx4752\cellx6192\cellx7632\cellx8928\cellx10368\cellx11808
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx8928\clbrdrb\brdrs\cellx10368\clbrdrb\brdrs\cellx11808
+\ql VARIABLES\cell\qc 10-90\cell\qc 10-50\cell\qc 50-90\cell\qc 10-25\cell\qc 25-50\cell\qc 50-75\cell\qc 75-90\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx3456\cellx4752\cellx6192\cellx7632\cellx8928\cellx10368\cellx11808
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql wagedist_10_90\cell\qc 0.025\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.022)\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql age\cell\qc 0.186***\cell\qc 0.186***\cell\qc 0.279***\cell\qc 0.186***\cell\qc 0.217***\cell\qc 0.285***\cell\qc 0.274***\cell\row
+\ql \cell\qc (0.046)\cell\qc (0.046)\cell\qc (0.043)\cell\qc (0.046)\cell\qc (0.045)\cell\qc (0.043)\cell\qc (0.042)\cell\row
+\ql sex\cell\qc 0.121\cell\qc 0.127\cell\qc -0.947\cell\qc 0.052\cell\qc 0.041\cell\qc -0.902\cell\qc -0.237\cell\row
+\ql \cell\qc (1.012)\cell\qc (1.012)\cell\qc (0.949)\cell\qc (1.013)\cell\qc (0.986)\cell\qc (0.950)\cell\qc (0.928)\cell\row
+\ql educ\cell\qc 0.034\cell\qc 0.034\cell\qc 0.118\cell\qc 0.033\cell\qc 0.096\cell\qc 0.128*\cell\qc 0.118\cell\row
+\ql \cell\qc (0.091)\cell\qc (0.091)\cell\qc (0.076)\cell\qc (0.091)\cell\qc (0.082)\cell\qc (0.076)\cell\qc (0.073)\cell\row
+\ql educ2\cell\qc 0.000\cell\qc 0.000\cell\qc -0.001\cell\qc 0.000\cell\qc -0.000\cell\qc -0.001\cell\qc -0.001\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql wagedist_10_50\cell\qc \cell\qc 0.053\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc (0.044)\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql wagedist_50_90\cell\qc \cell\qc \cell\qc 0.248***\cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.044)\cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql wagedist_10_25\cell\qc \cell\qc \cell\qc \cell\qc -1.218\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (1.864)\cell\qc \cell\qc \cell\qc \cell\row
+\ql wagedist_25_50\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.029\cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.035)\cell\qc \cell\qc \cell\row
+\ql wagedist_50_75\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.392***\cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.080)\cell\qc \cell\row
+\ql wagedist_75_90\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.887***\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.152)\cell\row
+\ql Constant\cell\qc 10.742**\cell\qc 10.738**\cell\qc 12.174***\cell\qc 12.261***\cell\qc 8.582**\cell\qc 11.543***\cell\qc 13.730***\cell\row
+\ql \cell\qc (4.242)\cell\qc (4.241)\cell\qc (3.610)\cell\qc (4.723)\cell\qc (3.926)\cell\qc (3.620)\cell\qc (3.543)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 1,821\cell\qc 1,821\cell\qc 3,642\cell\qc 1,821\cell\qc 2,077\cell\qc 3,642\cell\qc 4,132\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx8928\clbrdrb\brdrs\cellx10368\clbrdrb\brdrs\cellx11808
+\ql R-squared\cell\qc 0.012\cell\qc 0.013\cell\qc 0.022\cell\qc 0.012\cell\qc 0.014\cell\qc 0.020\cell\qc 0.019\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
